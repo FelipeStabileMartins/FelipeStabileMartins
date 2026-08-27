@@ -14,6 +14,6 @@
 
 ## 📫 Contato
 felipe_stabile@yahoo.com.br
- <img src="https://img.shields.io/badge/yahoo-D14836?style=for-the-badge&logo=Yahoo&logoColor=purple">
+ <img src="https://img.shields.io/badge/yahoo-D14836?style=for-the-badge&logo=Yahoo&logoColor">
   </a>
 </p>
