@@ -15,4 +15,8 @@ felipe_stabile@yahoo.com.br
 <div style="display: inline_block"><br> 
 <img align="center" alt="Python" height="40" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</p>
+
 
